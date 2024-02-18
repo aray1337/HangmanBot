@@ -1,0 +1,16 @@
+{
+  "name": "hangman",
+  "version": "1.0.0",
+  "description": "hangman bot :]",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Avirup",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.0.2",
+    "mongoose": "^6.6.1"
+  }
+}
