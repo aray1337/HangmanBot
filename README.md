@@ -1,1 +1,1 @@
-A Hangman Bot I made to have fun with my friends. It has categories: Nature, Anime, Entertainment, Games, Food, General, Music, Sport", Technology, and Pokemon. To run, you must add an .env file with the discord toekn and mongodb connection string.
+A Hangman Bot I made to have fun with my friends. It has categories: Nature, Anime, Entertainment, Games, Food, General, Music, Sport, Technology, and Pokemon. To run, you must add an .env file with the discord token and mongodb connection string.
