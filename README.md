@@ -39,4 +39,4 @@ Hangman Bot is a fun word game bot designed to entertain users across various Di
 
 ## Contributing
 
-Contributions are welcome! Feel free to submit pull requests or report issues on this GitHub repository.
+Contributions are welcome! Feel free to submit pull requests or report issues on the GitHub repository.
